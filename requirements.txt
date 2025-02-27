@@ -1,0 +1,3 @@
+tk  # (Built-in, but useful to note)
+pyperclip==1.8.2  # For clipboard operations
+python-dotenv==1.0.0  # To manage credentials in a .env file
